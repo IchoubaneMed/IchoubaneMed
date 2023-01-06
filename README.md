@@ -1,5 +1,16 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mohamed-ichoubane/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=IchoubaneMed&style=flat-square&color=blueviolet" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 <!--
 **IchoubaneMed/IchoubaneMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
